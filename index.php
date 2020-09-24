@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title> nedaa gaafer/ task four with css</title>
+        <meta charset="utf-8">
+        <!-- link style of my page -->
+        <!-- <link rel="stylesheet" href="css/style.css"> -->
+
+    </head>
+    <body>
+        <!-- ************************************************ start header ************************************************ -->
+        <div class="form">
+            <form action="sending.php" method="post">
+                <input type="text" name="name" id="">
+                <input type="email" name="email" id="">
+                <input type="submit" value="send">
+            </form>
+        </div>
+        <!-- ************************************************ end header ************************************************ -->
+
+    </body>
+</html>
